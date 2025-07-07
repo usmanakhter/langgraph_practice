@@ -1,2 +1,2 @@
 # langgraph_practice
-langgraph work in colab
+langgraph, langchain, langfuse work in colab
